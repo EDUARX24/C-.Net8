@@ -1,0 +1,12 @@
+C:\Users\disco\Documents\Bulky_MVC\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+C:\Users\disco\Documents\Bulky_MVC\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\disco\Documents\Bulky_MVC\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\disco\Documents\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disco\Documents\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\disco\Documents\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\disco\Documents\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\disco\Documents\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+C:\Users\disco\Documents\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+C:\Users\disco\Documents\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+C:\Users\disco\Documents\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\disco\Documents\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
